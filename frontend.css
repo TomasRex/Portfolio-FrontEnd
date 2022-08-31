@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+    border: 0px solid white;
+    align-items: flex-start;
+}
+
+.redsocial {
+    max-width: 35px;
+    max-height: 35px;
+}
+
+#space-between {
+    justify-content: space-between;
+}
+
+.center {
+    justify-content: center;
+}
